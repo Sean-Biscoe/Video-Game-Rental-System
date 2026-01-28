@@ -1,6 +1,5 @@
 '''
 
-Student ID: F325508
 
 Game Search module
 
