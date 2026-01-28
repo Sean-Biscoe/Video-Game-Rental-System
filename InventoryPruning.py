@@ -1,6 +1,6 @@
 '''
 
-Student ID: F325508
+
 
 Inventory Pruning Module
 
