@@ -97,11 +97,11 @@ This is a procedural programming project that implements a video game management
 ├── menu.ipynb                # Main GUI application
 ├── subscriptionManager.pyc   # External subscription module
 └── feedbackManager.pyc       # External feedback module
-```text
+```
 ## Getting Started
 1) Environment Setup: Ensure you have Python 3.11 installed.
 
-Installation: Install the necessary visualization and GUI libraries:
+2) Installation: Install the necessary visualization and GUI libraries:
 
 
 pip install matplotlib ipywidgets
