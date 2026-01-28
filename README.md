@@ -85,7 +85,7 @@ This is a procedural programming project that implements a video game management
 ## Project Structure
 
 ```text
-vgrs/
+\vgrs
 ├── Game_Info.txt             # Master inventory (min. 20 records)
 ├── Rental.txt                # Transaction history (min. 100 records)
 ├── Subscription_Info.txt     # Customer database
@@ -97,7 +97,7 @@ vgrs/
 ├── menu.ipynb                # Main GUI application
 ├── subscriptionManager.pyc   # External subscription module
 └── feedbackManager.pyc       # External feedback module
-
+vgrs/
 Getting Started
 1) Environment Setup: Ensure you have Python 3.11 installed.
 
