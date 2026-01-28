@@ -1,0 +1,38 @@
+GameID,Rating,Comments
+NBA23,4,Enjoyed playing it great graphics!
+Cricket01,3,The controls could be better.
+GTA01,5,Amazing game couldn't stop playing!
+PGA98,4,Good sports simulation.
+NBA22,5,Best basketball game ever!
+Cricket02,2,Disappointing not realistic.
+NBA21,4,Improved features from the previous version.
+GTA02,5,Love the open-world experience.
+PGA99,4,Solid golf game with realistic physics.
+NBA20,3,Some bugs need fixing.
+Cricket03,4,Fun cricket simulation.
+NBA19,5,Highly recommended for basketball fans.
+GTA03,4,Engaging storyline and missions.
+PGA00,3,Average golf game could use more variety.
+Cricket04,4,Good graphics and gameplay.
+NBA18,5,Excellent multiplayer options.
+PGA01,4,Realistic golf simulation.
+Cricket05,3,Needs improvement in ball physics.
+GTA04,5,A classic with great storytelling.
+PGA02,4,Enjoyable golf experience.
+NBA17,4,Solid basketball simulation.
+Cricket06,2,Not a fan of the controls.
+GTA05,5,Fantastic open-world gameplay.
+PGA03,4,Accurate golf swing mechanics.
+NBA16,5,Captivating basketball action.
+Cricket07,3,Lack of variety in game modes.
+PGA04,5,Love the attention to detail in courses.
+NBA15,4,Great graphics and player animations.
+Apex01,2,Mediocre battle royale experience.
+Cricket04,1,Lack of variety in game modes.
+Cricket02,1,The ball moved incorrectly.
+Cricket01,1,Not enough teams to select from.
+Apex01,1,Graphics are quite poor.
+Apex01,2,The connection was terrible.
+NBA23,4,Really good game
+GTA01,5,Really enjoyable
+PGA98,4,Really fun game
