@@ -105,8 +105,8 @@ This is a procedural programming project that implements a video game management
 1) Environment Setup: Ensure you have Python 3.11 installed.
 
 2) Installation: Install the necessary visualization and GUI libraries:
-
 pip install matplotlib ipywidgets
+
 3) File Preparation: Ensure Game_Info.txt and Rental.txt are in the project root directory.
 
 4) Launch: Open menu.ipynb in a Jupyter environment (VS Code or JupyterLab).
