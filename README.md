@@ -118,7 +118,11 @@ This is a procedural programming project that implements a video game management
 
 
 -Database Integration: Migrate from text files to a relational database (SQLite/MySQL) for better concurrency.
+
 -User Authentication: Implement a secure login system for store managers.
+
 -Advanced Filtering: Add search functionality for publishers and purchase date ranges.
+
 -Automated Alerts: Generate notifications for games that have been rented for an excessive period.
+
 -Multi-Copy Support: Enhance logic to handle multiple physical copies of the same title more efficiently.
