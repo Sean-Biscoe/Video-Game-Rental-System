@@ -106,7 +106,7 @@ This is a procedural programming project that implements a video game management
 
 2) Installation: Install the necessary visualization and GUI libraries:
 
-pip install matplotlib ipywidgets
+   pip install matplotlib ipywidgets
 
 3) File Preparation: Ensure Game_Info.txt and Rental.txt are in the project root directory.
 
