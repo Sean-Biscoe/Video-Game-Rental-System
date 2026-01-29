@@ -98,26 +98,26 @@ This is a procedural programming project that implements a video game management
 ├── subscriptionManager.pyc   # External subscription module
 └── feedbackManager.pyc       # External feedback module
 ```
+
 ## Getting Started
+
+
 1) Environment Setup: Ensure you have Python 3.11 installed.
 
 2) Installation: Install the necessary visualization and GUI libraries:
 
-
 pip install matplotlib ipywidgets
-File Preparation: Ensure Game_Info.txt and Rental.txt are in the project root directory.
+3) File Preparation: Ensure Game_Info.txt and Rental.txt are in the project root directory.
 
-Launch: Open menu.ipynb in a Jupyter environment (VS Code or JupyterLab).
+4) Launch: Open menu.ipynb in a Jupyter environment (VS Code or JupyterLab).
 
-Operation: Run all cells to launch the GUI. Select a user and enter a 4-letter Customer ID and Game ID to process a transaction.
+5) Operation: Run all cells to launch the GUI. Select a user and enter a 4-letter Customer ID and Game ID to process a transaction.
 
-Future Enhancements
-Database Integration: Migrate from text files to a relational database (SQLite/MySQL) for better concurrency.
+## Future Enhancements
 
-User Authentication: Implement a secure login system for store managers.
 
-Advanced Filtering: Add search functionality for publishers and purchase date ranges.
-
-Automated Alerts: Generate notifications for games that have been rented for an excessive period.
-
-Multi-Copy Support: Enhance logic to handle multiple physical copies of the same title more efficiently.
+-Database Integration: Migrate from text files to a relational database (SQLite/MySQL) for better concurrency.
+-User Authentication: Implement a secure login system for store managers.
+-Advanced Filtering: Add search functionality for publishers and purchase date ranges.
+-Automated Alerts: Generate notifications for games that have been rented for an excessive period.
+-Multi-Copy Support: Enhance logic to handle multiple physical copies of the same title more efficiently.
